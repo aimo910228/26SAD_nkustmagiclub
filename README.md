@@ -6,8 +6,6 @@ Repository：`26SAD_nkustmagiclub`
 
 本小組以 **高科大魔術社官網** 為專題，使用本 repository 整理網站需求分析、系統設計與實作相關的課程作業、討論紀錄及文件。
 
-官網連結：[高科大魔術社官網](https://nkustmagiclub.tw/)
-
 ## 課程資訊
 
 | 項目 | 內容 |
@@ -26,7 +24,7 @@ Repository：`26SAD_nkustmagiclub`
 
 | 路徑 | 用途 |
 | :--- | :--- |
-| `README.md` | 專題介紹、官網連結、課程資訊與小組作業首頁 |
+| `README.md` | 專題介紹、課程資訊與小組作業首頁 |
 | `assignments/` | 小組作業與各次繳交文件 |
 
 ## 目前進度
